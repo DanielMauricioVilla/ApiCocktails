@@ -70,6 +70,7 @@ header{
     height: 100%;
     width: 90%;
     border: 0;
+    border-radius: 20px;
     outline: none;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 30px;
